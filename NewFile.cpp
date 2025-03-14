@@ -1,0 +1,1 @@
+class smartphone : public phone, public pc, public ironbox
