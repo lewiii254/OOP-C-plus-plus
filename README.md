@@ -1,19 +1,20 @@
-🚀 C++ Chronicles: From Noob to Pro! 🔥
-📌 Welcome to my C++ Learning Playground! 🥰
+# 🚀 C++ Chronicles: From Noob to Pro! 🔥
+## 📌 Welcome to my C++ Learning Playground! 🥰
 
 This repo is my digital notebook 📖 where I push all my C++ code from class lectures, practice sessions, and experimental projects. Whether it's basic syntax, OOP magic, STL wizardry, or mind-blowing algorithms, it's all happening right here! 🚀
 
-🔥 What You'll Find Here
+## 🔥 What You'll Find Here
 ✅ Fundamentals – Variables, loops, functions, and all the C++ essentials.
 ✅ Object-Oriented Programming (OOP) – Classes, inheritance, polymorphism... you name it!
 ✅ Data Structures & Algorithms – Linked lists, trees, sorting, and searching like a pro.
 ✅ Hands-on Projects – Fun, real-world mini-projects for deeper learning.
 ✅ Advanced Topics – Multithreading, memory management, and beyond!
 
-💻 How to Use This Repo
+## 💻 How to Use This Repo
 1️⃣ Clone the repo
-
+```
 git clone https://github.com/yourusername/cpp-chronicles.git
+```
 2️⃣ Navigate into the directory
 
 cd cpp-chronicles
